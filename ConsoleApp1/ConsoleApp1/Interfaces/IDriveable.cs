@@ -1,5 +1,7 @@
-namespace TransportChallenge;
-
-public interface IDriveable
+namespace TransportChallenge
 {
+    public interface IDriveable
+    {
+        void Drive();
+    }
 }

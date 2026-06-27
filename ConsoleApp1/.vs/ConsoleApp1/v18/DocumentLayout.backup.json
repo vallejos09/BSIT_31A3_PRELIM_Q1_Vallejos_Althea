@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\interfaces\\idriveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\idriveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\interfaces\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\interfaces\\isailable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\isailable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\interfaces\\itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\transportresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\transportresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\yokai\\bsit_-section-_prelim_q1_vallejos_althea\\consoleapp1\\consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDriveable.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IDriveable.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\IDriveable.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IDriveable.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces\\IDriveable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:08:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFlyable.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IFlyable.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\IFlyable.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IFlyable.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces\\IFlyable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:08:25.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISailable.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Interfaces\\ISailable.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\ISailable.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Interfaces\\ISailable.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces\\ISailable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:08:18.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITransport.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Interfaces\\ITransport.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\ITransport.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Interfaces\\ITransport.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces\\ITransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:07:58.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Boat.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Boat.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Boat.cs",
+              "RelativeToolTip": "ConsoleApp1\\Boat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:07:45.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Car.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeToolTip": "ConsoleApp1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:07:39.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Drone.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Drone.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Drone.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Drone.cs",
+              "RelativeToolTip": "ConsoleApp1\\Drone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:07:29.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Airplane.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Airplane.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Airplane.cs",
+              "RelativeToolTip": "ConsoleApp1\\Airplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:05:54.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Helicopter.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Helicopter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Helicopter.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Helicopter.cs",
+              "RelativeToolTip": "ConsoleApp1\\Helicopter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:07:14.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Motorcycle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:06:58.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Submarine.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Submarine.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Submarine.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Submarine.cs",
+              "RelativeToolTip": "ConsoleApp1\\Submarine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:06:36.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransportResolver.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\TransportResolver.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TransportResolver.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\TransportResolver.cs",
+              "RelativeToolTip": "ConsoleApp1\\TransportResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:06:11.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\yokai\\BSIT_-section-_PRELIM_Q1_Vallejos_Althea\\ConsoleApp1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T07:06:05.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
