@@ -11,4 +11,4 @@ No, because C# only supports single class inheritance. A class can inherit from 
 C# allows multiple interface implementation. This lets Helicopter express both abilities without breaking inheritance rules. It models real‑world behavior where a helicopter can both fly and drive.  
 
 5. If a Submarine can both sail and dive, how would you design it? 
-Submarine would inherit from Vehicle to keep the IS‑A relationship. It would implement `ISailable` and a new `IDiveable` interface. This way it can perform both sailing and diving actions.  
+Submarine would inherit from Vehicle to keep the IS‑A relationship. It would implement ISailable and a new IDiveable interface. This way it can perform both sailing and diving actions.  
